@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @fortunex71
-- 👀 I’m interested in learning more about c/c++ and python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on small projects 
+ @fortunex71
+ C programmer 
   
 
 <!---
